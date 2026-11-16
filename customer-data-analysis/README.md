@@ -151,7 +151,7 @@ customer-data-analysis/
 
 ## 11. Author
 
-Thembinkosi Leago Mosupi
+Thembinkosi Leago Mosupi,
 BSc IT (Data Science) Student
 
 **Skills demonstrated:** Python, Data Cleaning, Exploratory Data Analysis, Data Visualisation, Customer Segmentation, RFM Analysis and Business Analytics.
